@@ -1,0 +1,6 @@
+PS D:\codes\algouni\week1\day1> python -m venv .venv   საჭიროა ვიყო იმ ფოლდერში სადაც გარდასაქმნელი ფაილია. 
+მანამდე საჭიროა ვირთუალურ სივრცეში pyinstaller დაყენება
+შემდეგ ტერმინალი უნდა გავთშო(kill terminal) 
+შემდეგ გარდაქმნა
+pyinstaller --onefile --windowed testing_visual.py -შავი ფანჯარა რომ არ გაოიტანოს ფონზე
+
